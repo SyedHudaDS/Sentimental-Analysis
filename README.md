@@ -22,4 +22,4 @@ The findings from this project can provide valuable insights into how customers 
 
 Presentation https://docs.google.com/presentation/d/1bXDvRaCKxBDWszSsa2w-4IymN3B6jhPSYkf8YxDFNU0/edit?usp=sharing
 
-
+Dataset https://www.kaggle.com/datasets/grikomsn/amazon-cell-phones-reviews?resource=download
